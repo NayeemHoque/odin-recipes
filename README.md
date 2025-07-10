@@ -1,0 +1,1 @@
+This project was about making a recipes website using solely html, while actively practicing to write better git commit messages along the way. It was a good exercise, to keep coming back to bash terminal and commit any meaningful code changes. Making sure i don't make too many changes that exceeds the subject character limit in the commit message.
