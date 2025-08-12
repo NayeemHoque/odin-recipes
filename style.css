@@ -10,4 +10,15 @@ h1 {
 .select-recipe {
     font-size: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 1000px;
+    margin: auto;
+}
+
+ul {
+    display: inline-flex;
+    width: 1000px;
+}
+
+li {
+    margin: 30px;
 }
