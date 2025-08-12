@@ -21,4 +21,6 @@ ul {
 
 li {
     margin: 45px;
+    background-color: rgb(38, 223, 84);
+    font-size: 25px;
 }
